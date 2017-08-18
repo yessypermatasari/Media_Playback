@@ -11,8 +11,8 @@ NIS           : 4854/1573.070 <br>
 Nama Sekolah  : SMK Telkom Malang <br>
 
 ### D. Screenshoot Aplikasi
-![Screenshot1](https://postimg.org/image/a4bbrlchx/)
-![Screenshot2](https://postimg.org/image/e38jaf151/)
-![Screenshot3](https://postimg.org/image/ca5mm3fyd/)
-![Screenshot4](https://postimg.org/image/mbagvet1h/)
-![Screenshot5](https://postimg.org/image/o4hyxh3lx/)
+![Screenshot1](https://s18.postimg.org/a4bbrlchx/Screenshot_37.png)
+![Screenshot2](https://s18.postimg.org/e38jaf151/Screenshot_38.png)
+![Screenshot3](https://s18.postimg.org/ca5mm3fyd/Screenshot_39.png)
+![Screenshot4](https://s18.postimg.org/mbagvet1h/Screenshot_40.png)
+![Screenshot5](]https://s18.postimg.org/o4hyxh3lx/Screenshot_41.png)
